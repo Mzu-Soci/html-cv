@@ -17,7 +17,7 @@ This is my solution to the [HTML Personal Website exercise on Udemy](https://www
 
 ## Overview
 
-This website is a html coding challenge from Udemy's 2022 Coding Bootcamp lectured by Angela Yu. This uses pain html and is to demonstrate a basic understanding of website structuring.
+This website is a html coding challenge from Udemy's 2022 Coding Bootcamp lectured by Angela Yu. This uses plain html and is to demonstrate a basic understanding of website structuring.
 
 ### Screenshot
 
@@ -30,7 +30,7 @@ This website is a html coding challenge from Udemy's 2022 Coding Bootcamp lectur
 
 ## My process
 
-I used an online app to crop my linkedIn profile picture.
+I used an online app to crop my LinkedIn profile picture.
 Added all text, tags, attributes and format as instructed in tutorial.
 Customized content to reflect my experience.
 
@@ -40,7 +40,10 @@ Customized content to reflect my experience.
 
 ### What I learned
 
-I learned how to use Atom.io the code editor, how to use html to structure content from a basic html website.
+I learned how to use Atom.io the code editor, how to use html to structure content.
+
+Learned about the following HTML components.
+HTML tags, attributes, boilerplates, lists, images, anchors, tables, forms and structure.
 
 ### Continued development
 
@@ -54,7 +57,3 @@ I am continuing with the course and will start learning how to use CSS to add st
 ## Author
 
 - LinkedIn - [Mzukisi Soci](https://www.linkedin.com/in/mzukisi-soci-308521140/)
-
-## Acknowledgments
-
-This section will be populated with my Udemy affiliate links.
