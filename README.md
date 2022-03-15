@@ -21,12 +21,12 @@ This website is a html coding challenge from Udemy's 2022 Coding Bootcamp lectur
 
 ### Screenshot
 
-![](./design/HTML - Personal Site.jpg)
+![](./design/HTML-Personal-Site.jpg)
 
-### Links
+<!-- ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://your-live-site-url.com) -->
 
 ## My process
 
